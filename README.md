@@ -1,2 +1,3 @@
 # helix-monitor-404158
-Internal helper
+
+Side project notes.
